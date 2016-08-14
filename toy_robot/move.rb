@@ -42,6 +42,6 @@ module Move
   end
 
   def destructive_move_warning
-    puts 'Place do not fall your toy robot to destruction :('
+    puts 'Please do not fall your toy robot to destruction :('
   end
 end

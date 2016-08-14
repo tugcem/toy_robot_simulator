@@ -1,6 +1,4 @@
 module Place
-
-
   #parsing, validation and returning hash of three attributes of toy_robot object are made
   def place_toy_robot input
     command = parse input
